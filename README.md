@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m a mechanical engineer who enjoys exploring different fields of engineering. I work across mechanical systems, electronics, and programming, and I like building integrated projects from concept to prototype.
 <!--
 **AntonyC03S/AntonyC03S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
